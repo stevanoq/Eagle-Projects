@@ -1,0 +1,5 @@
+Partlist exported from /home/evan/EAGLE/projects/jam2.sch at 07/12/22 11.40
+
+Qty Value Device Package Parts              Description                          POPULARITY
+4         JP4E   JP4     JP1, JP2, JP3, JP4 JUMPER                               15        
+4   7476N 7476N  DIL16   V1, V2, V3, V4     Dual J-K FLIP FLOP, preset and clear 0         
